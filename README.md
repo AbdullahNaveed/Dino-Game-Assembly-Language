@@ -1,3 +1,5 @@
+## Dino Game - Assembly Language
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
